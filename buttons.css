@@ -1,0 +1,25 @@
+    .myntra-button {
+        background-color: rgb(200, 20, 100);
+        color: purple;
+        width: 100px;
+        height: 36px;
+        font-weight: bold;
+
+
+
+    }
+
+
+    .myntra-button:hover {
+        background-color: purple;
+        color: rgb(200, 20, 100);
+    }
+
+    .buy-button {
+        color: black;
+        transition: color 0.4s;
+    }
+
+    .buy-button:hover {
+        color: red;
+    }
